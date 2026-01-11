@@ -63,3 +63,8 @@ require_once ABSPATH . 'wp-settings.php';
 // Extra
 define('WP_ALLOW_MULTISITE', true);
 define('FS_METHOD', 'direct');
+
+// Default theme (twentytwentythree yo'q bo'lganda)
+if (!defined('WP_DEFAULT_THEME')) {
+    define('WP_DEFAULT_THEME', 'hello-elementor');
+}
