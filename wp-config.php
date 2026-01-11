@@ -23,7 +23,9 @@
 define('DB_NAME', 'zeabur');
 
 /** MySQL database username */
+
 define('DB_USER', 'root');
+
 
 /** MySQL database password */
 define('DB_PASSWORD', 'VNte97gGcAyuqF32K5T8z0sp4QMZjH61');
@@ -74,6 +76,7 @@ $table_prefix  = 'wp_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define('WP_DEBUG', false);
+
 
 /* That's all, stop editing! Happy blogging. */
 
