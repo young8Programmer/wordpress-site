@@ -34,16 +34,31 @@ define('NONCE_SALT',       'edxcDfnbjI1X%PNEQufwPM^h8O!lgHCkfM5#ghMQPqZ3e7gnvs3k
 // Table prefix
 $table_prefix = 'wp_';
 
-// Debug
+// HTTPS Settings (Zeabur uchun)
+if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+    $_SERVER['HTTPS'] = 'on';
+}
+if (isset($_SERVER['HTTP_X_FORWARDED_SSL']) && $_SERVER['HTTP_X_FORWARDED_SSL'] === 'on') {
+    $_SERVER['HTTPS'] = 'on';
+}
+
+// Force HTTPS for admin and login
+define('FORCE_SSL_ADMIN', true);
+
+// Debug (production'da false qiling)
 define('WP_DEBUG', false);
+define('WP_DEBUG_DISPLAY', false);
+define('WP_DEBUG_LOG', false);
 
 // Absolute path
 if ( ! defined('ABSPATH') ) {
     define('ABSPATH', __DIR__ . '/');
 }
 
+
 // WordPress setup
 require_once ABSPATH . 'wp-settings.php';
+
 
 // Extra
 define('WP_ALLOW_MULTISITE', true);
