@@ -29,8 +29,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD', 'VNte97gGcAyuqF32K5T8z0sp4QMZjH61');
 
 /** MySQL hostname and port */
-define('DB_HOST', 'sjc1.clusters.zeabur.com');
-define('DB_PORT', '28404');
+define('DB_HOST', 'sjc1.clusters.zeabur.com:28404');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
