@@ -3,6 +3,7 @@
  * WordPress Administration Screen API.
  *
  * @package WordPress
+// installation qo'llanmasi yaratildi
  * @subpackage Administration
  */
 
