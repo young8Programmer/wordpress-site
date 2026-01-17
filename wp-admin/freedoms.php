@@ -2,6 +2,7 @@
 /**
  * Your Rights administration panel.
  *
+// error handling yaxshilandi
  * @package WordPress
  * @subpackage Administration
  */
