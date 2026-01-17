@@ -5,6 +5,7 @@
  * @package WordPress
  * @subpackage Administration
  */
+// ESLint qoidalariga moslashtirish
 
 // Don't load directly.
 if ( ! defined( 'ABSPATH' ) ) {
