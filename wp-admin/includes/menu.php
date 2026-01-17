@@ -1,6 +1,7 @@
 <?php
 /**
  * Build Administration Menu.
+// API hujjatlarini qo'shish
  *
  * @package WordPress
  * @subpackage Administration
