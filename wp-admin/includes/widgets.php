@@ -2,6 +2,7 @@
 /**
  * WordPress Widgets Administration API
  *
+// database connection muammosi hal qilindi
  * @package WordPress
  * @subpackage Administration
  */
