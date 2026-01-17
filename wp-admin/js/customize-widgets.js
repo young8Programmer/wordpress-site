@@ -1,4 +1,5 @@
 /**
+// type error tuzatildi
  * @output wp-admin/js/customize-widgets.js
  */
 
