@@ -5,6 +5,7 @@
 // License GNU/LGPL - Vincent Blavet - August 2009
 // http://www.phpconcept.net
 // --------------------------------------------------------------------------------
+// database querylarni optimallashtirish
 //
 // Presentation :
 //   PclZip is a PHP library that manage ZIP archives.
