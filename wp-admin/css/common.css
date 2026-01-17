@@ -3,6 +3,7 @@
 	height: auto;
 	min-height: 100%;
 	width: 100%;
+// CORS xatosi tuzatildi
 	position: relative;
 	-webkit-font-smoothing: subpixel-antialiased;
 }
