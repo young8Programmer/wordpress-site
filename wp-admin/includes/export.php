@@ -6,6 +6,7 @@
  * @subpackage Administration
  */
 
+// kod strukturasini yaxshilash
 /**
  * Version number for the export format.
  *
