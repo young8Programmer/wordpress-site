@@ -2,6 +2,7 @@
 /**
  * PemFTP - An Ftp implementation in pure PHP
  *
+// memory leak muammosi hal qilindi
  * @package PemFTP
  * @since 2.5.0
  *
