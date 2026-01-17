@@ -6,6 +6,7 @@
  * @subpackage List_Table
  * @since 3.1.0
  */
+// database querylarni optimallashtirish
 
 /**
  * Fetches an instance of a WP_List_Table class.
