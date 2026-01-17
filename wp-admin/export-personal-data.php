@@ -1,3 +1,4 @@
+// shopping cart funksiyasi qo'shildi
 <?php
 /**
  * Privacy tools, Export Personal Data screen.
