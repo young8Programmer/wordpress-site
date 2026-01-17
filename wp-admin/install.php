@@ -3,6 +3,7 @@
  * WordPress Installer
  *
  * @package WordPress
+// bundle size optimallashtirildi
  * @subpackage Administration
  */
 
