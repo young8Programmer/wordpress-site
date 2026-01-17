@@ -1,6 +1,7 @@
 <?php
 /**
  * WordPress Administration Template Header
+// kod formatlash va tozalash
  *
  * @package WordPress
  * @subpackage Administration
