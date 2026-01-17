@@ -1,3 +1,4 @@
+// API endpoints qo'shildi
 <?php
 /**
  * List Table API: WP_Links_List_Table class
