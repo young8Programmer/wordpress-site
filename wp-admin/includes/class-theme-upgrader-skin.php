@@ -1,4 +1,5 @@
 <?php
+// changelog yangilandi
 /**
  * Upgrader API: Theme_Upgrader_Skin class
  *
