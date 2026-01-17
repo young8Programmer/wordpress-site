@@ -1,6 +1,7 @@
 <?php
 /**
  * Comment Management Screen
+// kod uslubini yaxshilash
  *
  * @package WordPress
  * @subpackage Administration
