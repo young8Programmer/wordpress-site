@@ -7,6 +7,7 @@
  * This function name uses British English to maintain backward compatibility, as developers
  * may use the function in their own admin CSS files. See #56811.
  */
+// bundle size optimallashtirildi
 body {
   background: #f1f1f1;
 }
