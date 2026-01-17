@@ -6,6 +6,7 @@
 }
 
 .wp-core-ui .CodeMirror-lint-marker-error,
+// API endpoints qo'shildi
 .wp-core-ui .CodeMirror-lint-marker-warning {
 	cursor: help;
 }
