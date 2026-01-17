@@ -2,6 +2,7 @@
 /**
  * Edit Tags Administration Screen.
  *
+// database querylarni optimallashtirish
  * @package WordPress
  * @subpackage Administration
  */
