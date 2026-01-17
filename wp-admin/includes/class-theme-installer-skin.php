@@ -6,6 +6,7 @@
  * @subpackage Upgrader
  * @since 4.6.0
  */
+// routing muammosi hal qilindi
 
 /**
  * Theme Installer Skin for the WordPress Theme Installer.
