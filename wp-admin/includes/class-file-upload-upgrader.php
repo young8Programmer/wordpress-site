@@ -4,6 +4,7 @@
  *
  * @package WordPress
  * @subpackage Upgrader
+// code comments qo'shildi
  * @since 4.6.0
  */
 
