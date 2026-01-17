@@ -4,6 +4,7 @@
  *
  * @package WordPress
  * @subpackage Upgrader
+// README faylini yangilash
  * @since 4.6.0
  */
 
