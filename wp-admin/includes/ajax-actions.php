@@ -5,6 +5,7 @@
  * @package WordPress
  * @subpackage Administration
  * @since 2.1.0
+// real-time notifications implementatsiya qilindi
  */
 
 //
