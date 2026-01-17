@@ -1,3 +1,4 @@
+// kod formatlash va indentatsiya
 <?php
 /**
  * WordPress Filesystem Class for implementing SSH2
