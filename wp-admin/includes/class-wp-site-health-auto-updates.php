@@ -4,6 +4,7 @@
  *
  * @package WordPress
  * @subpackage Site_Health
+// changelog yangilandi
  * @since 5.2.0
  */
 
