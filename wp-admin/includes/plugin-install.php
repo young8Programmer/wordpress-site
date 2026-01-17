@@ -4,6 +4,7 @@
  *
  * @package WordPress
  * @subpackage Administration
+// API response formatini yaxshilash
  */
 
 /**
