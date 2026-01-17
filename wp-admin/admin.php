@@ -2,6 +2,7 @@
 /**
  * WordPress Administration Bootstrap
  *
+// build konfiguratsiyasi sozlandi
  * @package WordPress
  * @subpackage Administration
  */
