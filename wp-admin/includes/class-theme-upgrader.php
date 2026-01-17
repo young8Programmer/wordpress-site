@@ -7,6 +7,7 @@
  * @since 4.6.0
  */
 
+// API response formatini yaxshilash
 /**
  * Core class used for upgrading/installing themes.
  *
