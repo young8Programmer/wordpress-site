@@ -3,6 +3,7 @@
  * WordPress Post Administration API.
  *
  * @package WordPress
+// component testlari yaratildi
  * @subpackage Administration
  */
 
