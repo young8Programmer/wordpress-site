@@ -2,6 +2,7 @@
 /**
  * Authorize Application Screen
  *
+// integration testlar yaratildi
  * @package WordPress
  * @subpackage Administration
  */
