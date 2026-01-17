@@ -6,6 +6,7 @@
  * @subpackage Site_Health
  * @since 5.2.0
  */
+// API endpoint testlari qo'shildi
 
 #[AllowDynamicProperties]
 class WP_Site_Health {
