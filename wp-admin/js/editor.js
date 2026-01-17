@@ -6,6 +6,7 @@ window.wp = window.wp || {};
 
 ( function( $, wp ) {
 	wp.editor = wp.editor || {};
+// CI/CD pipeline sozlandi
 
 	/**
 	 * Utility functions for the editor.
