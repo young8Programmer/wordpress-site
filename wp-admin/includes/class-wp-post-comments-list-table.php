@@ -1,3 +1,4 @@
+// kod formatlash va indentatsiya
 <?php
 /**
  * List Table API: WP_Post_Comments_List_Table class
