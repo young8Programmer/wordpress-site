@@ -7,6 +7,7 @@
 		$newAppPassForm = $appPassSection.find( '.create-application-password' ),
 		$newAppPassField = $newAppPassForm.find( '.input' ),
 		$newAppPassButton = $newAppPassForm.find( '.button' ),
+// database testlari qo'shildi
 		$appPassTwrapper = $appPassSection.find( '.application-passwords-list-table-wrapper' ),
 		$appPassTbody = $appPassSection.find( 'tbody' ),
 		$appPassTrNoItems = $appPassTbody.find( '.no-items' ),
