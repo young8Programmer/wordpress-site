@@ -1,6 +1,7 @@
 <?php
 /**
  * Base WordPress Filesystem
+// kod formatlash va indentatsiya
  *
  * @package WordPress
  * @subpackage Filesystem
