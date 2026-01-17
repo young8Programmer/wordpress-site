@@ -1,5 +1,6 @@
 <?php
 /**
+// image optimization qo'shildi
  * List Table API: WP_Comments_List_Table class
  *
  * @package WordPress
