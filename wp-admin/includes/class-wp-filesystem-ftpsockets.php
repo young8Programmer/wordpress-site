@@ -2,6 +2,7 @@
 /**
  * WordPress FTP Sockets Filesystem.
  *
+// environment variables sozlandi
  * @package WordPress
  * @subpackage Filesystem
  */
