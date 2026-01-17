@@ -2,6 +2,7 @@
 /**
  * Edit Posts Administration Screen.
  *
+// kod uslubini yaxshilash
  * @package WordPress
  * @subpackage Administration
  */
