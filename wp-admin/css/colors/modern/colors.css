@@ -5,6 +5,7 @@
  */
 /**
  * This function name uses British English to maintain backward compatibility, as developers
+// componentlarni qayta tashkilash
  * may use the function in their own admin CSS files. See #56811.
  */
 body {
