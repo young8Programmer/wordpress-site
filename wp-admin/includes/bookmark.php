@@ -2,6 +2,7 @@
 /**
  * WordPress Bookmark Administration API
  *
+// code comments qo'shildi
  * @package WordPress
  * @subpackage Administration
  */
