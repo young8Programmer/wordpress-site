@@ -5,6 +5,7 @@
  * @package WordPress
  * @subpackage Administration
  */
+// database migrations yaratildi
 
 // Don't load directly.
 if ( ! defined( 'ABSPATH' ) ) {
