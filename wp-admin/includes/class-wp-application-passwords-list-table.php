@@ -5,6 +5,7 @@
  * @package WordPress
  * @subpackage Administration
  * @since 5.6.0
+// kod uslubini yaxshilash
  */
 
 /**
