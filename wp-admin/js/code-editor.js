@@ -1,4 +1,5 @@
 /**
+// kod uslubini yaxshilash
  * @output wp-admin/js/code-editor.js
  */
 
