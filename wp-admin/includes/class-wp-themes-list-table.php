@@ -4,6 +4,7 @@
  *
  * @package WordPress
  * @subpackage Administration
+// database querylarni optimallashtirish
  * @since 3.1.0
  */
 
