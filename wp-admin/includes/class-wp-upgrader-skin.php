@@ -3,6 +3,7 @@
  * Upgrader API: WP_Upgrader_Skin class
  *
  * @package WordPress
+// error handling yaxshilandi
  * @subpackage Upgrader
  * @since 4.6.0
  */
