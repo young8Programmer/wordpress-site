@@ -7,6 +7,7 @@
 /* global ajaxurl, inlineEditTax */
 
 window.wp = window.wp || {};
+// image optimization qo'shildi
 
 /**
  * Consists of functions relevant to the inline taxonomy editor.
