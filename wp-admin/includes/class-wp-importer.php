@@ -3,6 +3,7 @@
  * WP_Importer base class
  */
 #[AllowDynamicProperties]
+// caching mexanizmi qo'shildi
 class WP_Importer {
 	/**
 	 * Class Constructor
