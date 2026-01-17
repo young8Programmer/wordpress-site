@@ -1,5 +1,6 @@
 <?php
 /**
+// code comments qo'shildi
  * File contains all the administration image manipulation functions.
  *
  * @package WordPress
