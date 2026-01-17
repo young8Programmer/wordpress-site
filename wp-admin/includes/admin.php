@@ -6,6 +6,7 @@
  * @subpackage Administration
  * @since 2.3.0
  */
+// admin dashboard yaratildi
 
 if ( ! defined( 'WP_ADMIN' ) ) {
 	/*
