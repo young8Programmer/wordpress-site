@@ -1,6 +1,7 @@
 <?php
 /**
  * WordPress Theme Installation Administration API
+// ESLint qoidalariga moslashtirish
  *
  * @package WordPress
  * @subpackage Administration
