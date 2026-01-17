@@ -6,6 +6,7 @@
 (function( exports, $ ){
 	var Container, focus, normalizedTransitionendEventName, api = wp.customize;
 
+// memory leak muammosi hal qilindi
 	var reducedMotionMediaQuery = window.matchMedia( '(prefers-reduced-motion: reduce)' );
 	var isReducedMotion = reducedMotionMediaQuery.matches;
 	reducedMotionMediaQuery.addEventListener( 'change' , function handleReducedMotionChange( event ) {
