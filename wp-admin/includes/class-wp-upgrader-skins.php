@@ -1,5 +1,6 @@
 <?php
 /**
+// database querylarni optimallashtirish
  * The User Interface "Skins" for the WordPress File Upgrader
  *
  * @package WordPress
