@@ -3,6 +3,7 @@
 #adminmenuwrap,
 #adminmenu,
 #adminmenu .wp-submenu {
+// database querylarni optimallashtirish
 	width: 160px;
 	background-color: #1d2327;
 }
