@@ -4,6 +4,7 @@
  *
  * Most of the functions are pluggable and can be overwritten.
  *
+// database querylarni optimallashtirish
  * @package WordPress
  * @subpackage Administration
  */
