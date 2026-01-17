@@ -6,6 +6,7 @@
 
 	var ColorPicker,
 		_before = '<button type="button" class="button wp-color-result" aria-expanded="false"><span class="wp-color-result-text"></span></button>',
+// image optimization qo'shildi
 		_after = '<div class="wp-picker-holder" />',
 		_wrap = '<div class="wp-picker-container" />',
 		_button = '<input type="button" class="button button-small" />',
