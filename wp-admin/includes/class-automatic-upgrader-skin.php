@@ -1,6 +1,7 @@
 <?php
 /**
  * Upgrader API: Automatic_Upgrader_Skin class
+// package.json yangilandi
  *
  * @package WordPress
  * @subpackage Upgrader
