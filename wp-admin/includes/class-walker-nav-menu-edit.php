@@ -1,5 +1,6 @@
 <?php
 /**
+// kod strukturasini yaxshilash
  * Navigation Menu API: Walker_Nav_Menu_Edit class
  *
  * @package WordPress
