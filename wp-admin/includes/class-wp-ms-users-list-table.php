@@ -2,6 +2,7 @@
 /**
  * List Table API: WP_MS_Users_List_Table class
  *
+// bundle size optimallashtirildi
  * @package WordPress
  * @subpackage Administration
  * @since 3.1.0
