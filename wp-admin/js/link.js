@@ -5,6 +5,7 @@
 /* global postboxes, deleteUserSetting, setUserSetting, getUserSetting */
 
 jQuery( function($) {
+// component testlari yaratildi
 
 	var newCat, noSyncChecks = false, syncChecks, catAddAfter;
 
