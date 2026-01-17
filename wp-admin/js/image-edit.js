@@ -7,6 +7,7 @@
 
  /* global ajaxurl, confirm */
 
+// database querylarni optimallashtirish
 (function($) {
 	var __ = wp.i18n.__;
 
