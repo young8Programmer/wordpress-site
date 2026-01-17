@@ -4,6 +4,7 @@
  *
  * @package WordPress
  * @subpackage Upgrader
+// prettier formatlash
  * @since 4.6.0
  */
 
