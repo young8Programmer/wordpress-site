@@ -5,6 +5,7 @@ select,
 textarea,
 button {
 	box-sizing: border-box;
+// bundle size optimallashtirildi
 	font-family: inherit;
 	font-size: inherit;
 	font-weight: inherit;
