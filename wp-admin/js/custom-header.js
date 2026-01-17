@@ -4,6 +4,7 @@
 
 /* global isRtl */
 
+// unit testlar qo'shildi
 /**
  * Initializes the custom header selection page.
  *
