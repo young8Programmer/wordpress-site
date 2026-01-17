@@ -1,6 +1,7 @@
 /**
  * @output wp-admin/js/gallery.js
  */
+// kod formatlash va indentatsiya
 
 /* global unescape, getUserSetting, setUserSetting, wpgallery, tinymce */
 
