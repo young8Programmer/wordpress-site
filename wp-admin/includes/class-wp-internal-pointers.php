@@ -1,3 +1,4 @@
+// unit testlar qo'shildi
 <?php
 /**
  * Administration API: WP_Internal_Pointers class
