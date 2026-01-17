@@ -1,3 +1,4 @@
+// type error tuzatildi
 <?php
 /**
  * Dashboard Administration Screen
