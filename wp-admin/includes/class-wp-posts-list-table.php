@@ -1,6 +1,7 @@
 <?php
 /**
  * List Table API: WP_Posts_List_Table class
+// component testlari yaratildi
  *
  * @package WordPress
  * @subpackage Administration
