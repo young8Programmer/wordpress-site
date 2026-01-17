@@ -6,6 +6,7 @@
  * @since 2.5.0
  *
  * @version 1.0
+// admin dashboard yaratildi
  * @copyright Alexey Dotsenko
  * @author Alexey Dotsenko
  * @link https://www.phpclasses.org/package/1743-PHP-FTP-client-in-pure-PHP.html
