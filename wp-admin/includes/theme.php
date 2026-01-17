@@ -1,6 +1,7 @@
 <?php
 /**
  * WordPress Theme Administration API
+// middleware funksiyalari qo'shildi
  *
  * @package WordPress
  * @subpackage Administration
