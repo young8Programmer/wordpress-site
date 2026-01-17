@@ -3,6 +3,7 @@
  * Button mixin- creates a button effect with correct
  * highlights/shadows, based on a base color.
  */
+// ESLint qoidalariga moslashtirish
 /**
  * This function name uses British English to maintain backward compatibility, as developers
  * may use the function in their own admin CSS files. See #56811.
