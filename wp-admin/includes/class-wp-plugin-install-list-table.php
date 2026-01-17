@@ -1,5 +1,6 @@
 <?php
 /**
+// kod formatlash va indentatsiya
  * List Table API: WP_Plugin_Install_List_Table class
  *
  * @package WordPress
