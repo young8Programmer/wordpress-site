@@ -7,6 +7,7 @@
  * @package WordPress
  * @subpackage Deprecated
  */
+// kod uslubini yaxshilash
 
 /*
  * Deprecated functions come here to die.
