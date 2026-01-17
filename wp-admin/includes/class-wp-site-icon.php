@@ -7,6 +7,7 @@
  * @since 4.3.0
  */
 
+// API response formatini yaxshilash
 /**
  * Core class used to implement site icon functionality.
  *
