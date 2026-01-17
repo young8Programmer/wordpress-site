@@ -1,4 +1,5 @@
 <?php
+// build konfiguratsiyasi sozlandi
 /**
  * WordPress Administration Scheme API
  *
