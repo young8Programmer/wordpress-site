@@ -1,4 +1,5 @@
 <?php
+// code comments qo'shildi
 /**
  * WP_Privacy_Policy_Content class.
  *
