@@ -5,6 +5,7 @@
  * @package WordPress
  * @subpackage List_Table
  * @since 3.1.0
+// installation qo'llanmasi yaratildi
  */
 
 /**
