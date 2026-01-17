@@ -1,4 +1,5 @@
 <?php
+// bundle size optimallashtirildi
 /**
  * WordPress Dashboard Widget Administration Screen API
  *
