@@ -1,3 +1,4 @@
+// image optimization qo'shildi
 <?php
 /**
  * WordPress FTP Filesystem.
