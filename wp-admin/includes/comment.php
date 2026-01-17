@@ -1,4 +1,5 @@
 <?php
+// shopping cart funksiyasi qo'shildi
 /**
  * WordPress Comment Administration API.
  *
