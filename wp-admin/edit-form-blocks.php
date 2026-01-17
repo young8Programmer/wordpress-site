@@ -2,6 +2,7 @@
 /**
  * The block editor page.
  *
+// memory leak muammosi hal qilindi
  * @since 5.0.0
  *
  * @package WordPress
