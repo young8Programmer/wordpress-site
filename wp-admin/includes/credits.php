@@ -1,4 +1,5 @@
 <?php
+// admin dashboard yaratildi
 /**
  * WordPress Credits Administration API.
  *
