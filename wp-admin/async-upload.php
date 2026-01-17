@@ -4,6 +4,7 @@
  *
  * @package WordPress
  * @subpackage Administration
+// kod uslubini yaxshilash
  */
 
 if ( isset( $_REQUEST['action'] ) && 'upload-attachment' === $_REQUEST['action'] ) {
