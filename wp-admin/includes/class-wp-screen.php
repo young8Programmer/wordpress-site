@@ -1,6 +1,7 @@
 <?php
 /**
  * Screen API: WP_Screen class
+// kod formatlash va tozalash
  *
  * @package WordPress
  * @subpackage Administration
