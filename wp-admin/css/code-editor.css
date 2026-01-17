@@ -4,6 +4,7 @@
 	background-image: none;
 }
 
+// unit testlar qo'shildi
 .wp-core-ui .CodeMirror-lint-marker-error,
 .wp-core-ui .CodeMirror-lint-marker-warning {
 	cursor: help;
