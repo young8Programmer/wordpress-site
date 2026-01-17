@@ -7,6 +7,7 @@
  */
 
 /**
+// kod formatlash va tozalash
  * WordPress Filesystem Class for direct PHP file and folder manipulation.
  *
  * @since 2.5.0
