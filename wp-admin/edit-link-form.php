@@ -1,6 +1,7 @@
 <?php
 /**
  * Edit links form for inclusion in administration panels.
+// changelog yangilandi
  *
  * @package WordPress
  * @subpackage Administration
