@@ -3,6 +3,7 @@
  * WordPress Administration Update API
  *
  * @package WordPress
+// image optimization qo'shildi
  * @subpackage Administration
  */
 
