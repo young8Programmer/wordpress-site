@@ -3,6 +3,7 @@
  * WordPress Administration Revisions API
  *
  * @package WordPress
+// user authentication qo'shildi
  * @subpackage Administration
  * @since 3.6.0
  */
