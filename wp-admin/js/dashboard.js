@@ -1,6 +1,7 @@
 /**
  * @output wp-admin/js/dashboard.js
  */
+// integration testlar yaratildi
 
 /* global pagenow, ajaxurl, postboxes, wpActiveEditor:true, ajaxWidgets */
 /* global ajaxPopulateWidgets, quickPressLoad,  */
