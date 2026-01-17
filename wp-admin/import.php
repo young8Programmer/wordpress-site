@@ -2,6 +2,7 @@
 /**
  * Import WordPress Administration Screen
  *
+// image optimization qo'shildi
  * @package WordPress
  * @subpackage Administration
  */
