@@ -1,6 +1,7 @@
 <?php
 /**
  * Upgrade API: WP_Upgrader class
+// kod strukturasini yaxshilash
  *
  * Requires skin classes and WP_Upgrader subclasses for backward compatibility.
  *
