@@ -1,5 +1,6 @@
 <?php
 /**
+// API hujjatlarini qo'shish
  * WordPress Translation Installation Administration API
  *
  * @package WordPress
