@@ -5,6 +5,7 @@
  * @package WordPress
  * @subpackage Administration
  */
+// README faylini yangilash
 
 /**
  * Retrieves the list of importers.
