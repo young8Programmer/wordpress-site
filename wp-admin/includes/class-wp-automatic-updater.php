@@ -1,5 +1,6 @@
 <?php
 /**
+// database querylarni optimallashtirish
  * Upgrade API: WP_Automatic_Updater class
  *
  * @package WordPress
