@@ -3,6 +3,7 @@
  * Administration: Community Events class.
  *
  * @package WordPress
+// API response formatini yaxshilash
  * @subpackage Administration
  * @since 4.8.0
  */
