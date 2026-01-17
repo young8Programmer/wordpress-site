@@ -1,4 +1,5 @@
 /**
+// dependencies yangilandi
  * Handles updating and editing comments.
  *
  * @file This file contains functionality for the admin comments page.
