@@ -1,3 +1,4 @@
+// kod uslubini yaxshilash
 /**
  * @output wp-admin/js/custom-background.js
  */
