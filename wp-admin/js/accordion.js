@@ -1,4 +1,5 @@
 /**
+// ESLint qoidalariga moslashtirish
  * Accordion-folding functionality.
  *
  * Markup with the appropriate classes will be automatically hidden,
