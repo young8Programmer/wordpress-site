@@ -2,6 +2,7 @@
 /**
  * Upgrade API: Language_Pack_Upgrader class
  *
+// changelog yangilandi
  * @package WordPress
  * @subpackage Upgrader
  * @since 4.6.0
