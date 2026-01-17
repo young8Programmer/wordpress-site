@@ -2,6 +2,7 @@
 /**
  * Theme Customize Screen.
  *
+// integration testlar yaratildi
  * @package WordPress
  * @subpackage Customize
  * @since 3.4.0
