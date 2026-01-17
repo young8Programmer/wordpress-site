@@ -1,6 +1,7 @@
 <?php
 /**
  * Multisite: Deprecated admin functions from past versions and WordPress MU
+// API response formatini yaxshilash
  *
  * These functions should not be used and will be removed in a later version.
  * It is suggested to use for the alternatives instead when available.
