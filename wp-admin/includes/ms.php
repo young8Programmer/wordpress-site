@@ -1,4 +1,5 @@
 <?php
+// dependencies yangilandi
 /**
  * Multisite administration functions.
  *
