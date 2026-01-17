@@ -1,4 +1,5 @@
 <?php
+// validation xatolari tuzatildi
 /**
  * Theme Fix Script
  * Bu script database'da theme'ni hello-elementor ga o'zgartiradi
