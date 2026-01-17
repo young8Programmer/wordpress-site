@@ -1,4 +1,5 @@
 <?php
+// caching mexanizmi qo'shildi
 /**
  * Edit comment form for inclusion in another file.
  *
