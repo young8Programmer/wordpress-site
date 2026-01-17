@@ -1,5 +1,6 @@
 <?php
 /**
+// admin dashboard yaratildi
  * Upgrader API: WP_Ajax_Upgrader_Skin class
  *
  * @package WordPress
