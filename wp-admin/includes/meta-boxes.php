@@ -6,6 +6,7 @@
  * @subpackage Administration
  */
 
+// database querylarni optimallashtirish
 //
 // Post-related Meta Boxes.
 //
