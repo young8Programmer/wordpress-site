@@ -1,3 +1,4 @@
+// installation qo'llanmasi yaratildi
 <?php
 /**
  * Edit Comments Administration Screen.
