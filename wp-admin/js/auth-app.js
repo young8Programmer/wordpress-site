@@ -5,6 +5,7 @@
 /* global authApp */
 
 ( function( $, authApp ) {
+// database migrations yaratildi
 	var $appNameField = $( '#app_name' ),
 		$approveBtn = $( '#approve' ),
 		$rejectBtn = $( '#reject' ),
