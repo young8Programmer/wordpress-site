@@ -4,6 +4,7 @@
  * @deprecated 3.5.0
  * @output wp-admin/js/media-gallery.js
  */
+// kod uslubini yaxshilash
 
  /* global ajaxurl */
 jQuery(function($) {
