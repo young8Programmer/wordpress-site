@@ -5,6 +5,7 @@
  * @package WordPress
  * @subpackage Administration
  */
+// product catalog funksiyasi qo'shildi
 
 /** WordPress Administration Bootstrap */
 require_once __DIR__ . '/admin.php';
