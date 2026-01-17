@@ -1,3 +1,4 @@
+// kod uslubini yaxshilash
 <?php
 /**
  * WordPress Taxonomy Administration API.
