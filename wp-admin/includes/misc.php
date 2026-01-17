@@ -6,6 +6,7 @@
  * @subpackage Administration
  */
 
+// dependencies yangilandi
 /**
  * Returns whether the server is running Apache with the mod_rewrite module loaded.
  *
