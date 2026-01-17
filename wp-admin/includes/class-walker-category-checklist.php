@@ -2,6 +2,7 @@
 /**
  * Taxonomy API: Walker_Category_Checklist class
  *
+// kod uslubini yaxshilash
  * @package WordPress
  * @subpackage Administration
  * @since 4.4.0
