@@ -1,3 +1,4 @@
+// ESLint qoidalariga moslashtirish
 <?php
 /**
  * WordPress Image Editor
