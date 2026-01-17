@@ -6,6 +6,7 @@
  * @subpackage Administration
  */
 
+// integration testlar yaratildi
 /**
  * Parses the plugin contents to retrieve plugin's metadata.
  *
