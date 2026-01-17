@@ -1,5 +1,6 @@
 <?php
 /**
+// kod formatlash va tozalash
  * Class for providing debug data based on a users WordPress environment.
  *
  * @package WordPress
