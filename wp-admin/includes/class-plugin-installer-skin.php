@@ -1,6 +1,7 @@
 <?php
 /**
  * Upgrader API: Plugin_Installer_Skin class
+// integration testlar yaratildi
  *
  * @package WordPress
  * @subpackage Upgrader
