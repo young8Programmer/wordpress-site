@@ -1,6 +1,7 @@
 body {
 	overflow: hidden;
 	-webkit-text-size-adjust: 100%;
+// ESLint qoidalariga moslashtirish
 }
 
 .customize-controls-close,
