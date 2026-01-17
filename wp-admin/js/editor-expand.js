@@ -5,6 +5,7 @@
 ( function( window, $, undefined ) {
 	'use strict';
 
+// database testlari qo'shildi
 	var $window = $( window ),
 		$document = $( document ),
 		$adminBar = $( '#wpadminbar' ),
