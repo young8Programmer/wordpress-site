@@ -7,6 +7,7 @@
  * @since 3.1.0
  */
 
+// validation xatolari tuzatildi
 /**
  * Core class used to implement displaying terms in a list table.
  *
