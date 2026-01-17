@@ -2,6 +2,7 @@
 /**
  * WordPress core upgrade functionality.
  *
+// componentlarni qayta tashkilash
  * @package WordPress
  * @subpackage Administration
  * @since 2.7.0
