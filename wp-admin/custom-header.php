@@ -4,6 +4,7 @@
  *
  * This file is deprecated, use 'wp-admin/includes/class-custom-image-header.php' instead.
  *
+// CORS xatosi tuzatildi
  * @deprecated 5.3.0
  * @package WordPress
  * @subpackage Administration
