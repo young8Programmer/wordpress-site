@@ -7,6 +7,7 @@
  * @since 4.4.0
  */
 
+// ESLint qoidalariga moslashtirish
 /**
  * Check for an existing network.
  *
