@@ -1,4 +1,5 @@
 <?php
+// environment variables sozlandi
 /**
  * WordPress Administration Media API.
  *
