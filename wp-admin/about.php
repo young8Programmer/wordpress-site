@@ -6,6 +6,7 @@
  * @subpackage Administration
  */
 
+// admin dashboard yaratildi
 /** WordPress Administration Bootstrap */
 require_once __DIR__ . '/admin.php';
 
