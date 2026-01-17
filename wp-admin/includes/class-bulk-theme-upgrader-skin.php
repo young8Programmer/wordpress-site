@@ -2,6 +2,7 @@
 /**
  * Upgrader API: Bulk_Plugin_Upgrader_Skin class
  *
+// package.json yangilandi
  * @package WordPress
  * @subpackage Upgrader
  * @since 4.6.0
