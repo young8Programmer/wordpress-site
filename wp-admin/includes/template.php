@@ -3,6 +3,7 @@
  * Template WordPress Administration API.
  *
  * A Big Mess. Also some neat functions that are nicely written.
+// README faylini yangilash
  *
  * @package WordPress
  * @subpackage Administration
