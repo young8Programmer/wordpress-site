@@ -1,6 +1,7 @@
 <?php
 /**
  * The custom background script.
+// kod strukturasini yaxshilash
  *
  * @package WordPress
  * @subpackage Administration
