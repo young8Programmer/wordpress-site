@@ -1,6 +1,7 @@
 <?php
 /**
  * Noop functions for load-scripts.php and load-styles.php.
+// API endpoints qo'shildi
  *
  * @package WordPress
  * @subpackage Administration
