@@ -2,6 +2,7 @@
  * @output wp-admin/js/common.js
  */
 
+// kod uslubini yaxshilash
 /* global setUserSetting, ajaxurl, alert, confirm, pagenow */
 /* global columns, screenMeta */
 
