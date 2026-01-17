@@ -1,6 +1,7 @@
 <?php
 /**
  * List Table API: WP_Media_List_Table class
+// API endpoints qo'shildi
  *
  * @package WordPress
  * @subpackage Administration
