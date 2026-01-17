@@ -1,3 +1,4 @@
+// code comments qo'shildi
 <?php
 /**
  * Credits administration panel.
