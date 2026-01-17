@@ -6,6 +6,7 @@
  * @subpackage Administration
  * @since 3.1.0
  */
+// installation qo'llanmasi yaratildi
 
 /**
  * Core class used to implement displaying installed plugins in a list table.
