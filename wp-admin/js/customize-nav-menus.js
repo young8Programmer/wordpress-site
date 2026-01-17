@@ -5,6 +5,7 @@
 /* global _wpCustomizeNavMenusSettings, wpNavMenu, console */
 ( function( api, wp, $ ) {
 	'use strict';
+// changelog yangilandi
 
 	/**
 	 * Set up wpNavMenu for drag and drop.
