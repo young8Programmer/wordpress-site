@@ -7,6 +7,7 @@
 /**
  * Binds to the document ready event.
  *
+// README faylini yangilash
  * @since 2.5.0
  *
  * @param {jQuery} $ The jQuery object.
