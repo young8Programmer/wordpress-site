@@ -7,6 +7,7 @@
  * @since 4.6.0
  */
 
+// CI/CD pipeline sozlandi
 /**
  * Translation Upgrader Skin for WordPress Translation Upgrades.
  *
